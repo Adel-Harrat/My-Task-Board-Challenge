@@ -4,9 +4,9 @@ export default function Home() {
   return (
     <main class="max-w-md mx-auto flex my-8 flex-col gap-8">
       {/* Heading */}
-      <section class="grid grid-cols-[1.5rem_1fr] gap-4">
-        <div class="mt-2">
-          <img src="/Logo.svg" alt="Logo" class="size-6" />
+      <section class="grid grid-cols-[2rem_1fr] gap-4">
+        <div class="flex items-start">
+          <img src="/Logo.svg" alt="Logo" class="mt-2" />
         </div>
 
         <div class="flex flex-col gap-3">
