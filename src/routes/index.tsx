@@ -6,7 +6,7 @@ export default function Home() {
       {/* Heading */}
       <section class="grid grid-cols-[1.5rem_1fr] gap-4">
         <div class="mt-2">
-          <img src="/logo.svg" alt="Logo" class="size-6" />
+          <img src="/Logo.svg" alt="Logo" class="size-6" />
         </div>
 
         <div class="flex flex-col gap-3">
